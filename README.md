@@ -1,8 +1,5 @@
 
 # 🎵 Rock & EDM Festival
-El proyecto Rock & EDM Festivales es un sitio web estático de diseño frontend que captura la esencia vibrante y emocionante de un festival musical. Con secciones dedicadas al line up, galería y compra de boletos, este sitio web ofrece una experiencia inmersiva para los amantes de la música. Su diseño presenta una gama de colores coloridos y típicos de un evento musical, lo que refleja la energía y la diversión asociadas con los festivales de música.
-Construido con HTML, SASS, JavaScript Vanilla y Gulp, este proyecto ofrece un diseño atractivo y funcional.
-
 
 ## Tech Stack
 
